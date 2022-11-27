@@ -1,0 +1,7 @@
+config -->username&email
+1-new repo on github
+2-git init 
+3- git add .
+4- git commit -m "commit name"
+5-git remote add orgin https//
+6-git push 
