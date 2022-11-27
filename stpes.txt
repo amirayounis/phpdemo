@@ -5,3 +5,5 @@ config -->username&email
 4- git commit -m "commit name"
 5-git remote add orgin https//
 6-git push 
+-------------------------
+1 -git clone 
